@@ -1,0 +1,70 @@
+#body,
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-image: url("background.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: center;
+  padding-right: 175px;
+}
+
+#drumkit-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 80%;
+  gap: 20px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 5rem;
+}
+
+#kick {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid black;
+}
+#boom {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid black;
+}
+#snare {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid black;
+}
+#hi-hat {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid black;
+}
+#ride {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid black;
+}
+#crash {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid black;
+}
+#rimshot {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid black;
+}
+#clave {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid black;
+}
