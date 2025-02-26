@@ -14,6 +14,8 @@ html {
 h1 {
   text-align: center;
   padding-right: 175px;
+  color: yellow;
+  font-size: 2rem;
 }
 
 #drumkit-container {
@@ -25,46 +27,62 @@ h1 {
   gap: 20px;
   text-align: center;
   vertical-align: middle;
-  line-height: 5rem;
+  line-height: 7rem;
 }
 
 #kick {
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
   border: 1px solid black;
+  color: yellow;
+  font-size: 2rem;
 }
 #boom {
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
   border: 1px solid black;
+  color: yellow;
+  font-size: 2rem;
 }
 #snare {
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
   border: 1px solid black;
+  color: yellow;
+  font-size: 2rem;
 }
 #hi-hat {
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
   border: 1px solid black;
+  color: yellow;
+  font-size: 2rem;
 }
 #ride {
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
   border: 1px solid black;
+  color: yellow;
+  font-size: 2rem;
 }
 #crash {
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
   border: 1px solid black;
+  color: yellow;
+  font-size: 2rem;
 }
 #rimshot {
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
   border: 1px solid black;
+  color: yellow;
+  font-size: 2rem;
 }
 #clave {
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
   border: 1px solid black;
+  color: yellow;
+  font-size: 2rem;
 }
