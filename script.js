@@ -32,16 +32,16 @@ document.addEventListener("keydown", (event) => {
       highlightSoundElement(snare);
       break;
     case "f":
-      playSound(hihatAudio);
-      highlightSoundElement(hihat);
+      playSound(crashAudio);
+      highlightSoundElement(crash);
       break;
     case "h":
       playSound(rideAudio);
       highlightSoundElement(ride);
       break;
     case "j":
-      playSound(crashAudio);
-      highlightSoundElement(crash);
+      playSound(hihatAudio);
+      highlightSoundElement(hihat);
       break;
     case "k":
       playSound(rimshotAudio);
